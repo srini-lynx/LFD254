@@ -36,9 +36,8 @@ docker push srini78/petclinic:v1
 # Please follow the above steps for the manual build for container
 
 
-# Added spring-petclinic-dockerfile Directory with same Content
-# But this contains Dockerfile which eventually builds the image in a Declarative way instead of Imperative way in the manual approach
-# (spring-petclinic-manual) ==> Imperative Way of Building Docker Image
-# (spring-petclinic-dockerfile) ==> Declarative Way of Building Docker Image
+# Added spring-petclinic-dockerfile Directory with same Content, which is Dockerfile approach
 
-
+But this contains Dockerfile which eventually builds the image in a Declarative way instead of Imperative way in the manual approach
+(spring-petclinic-manual)     ==> Imperative Way of Building Docker Image
+(spring-petclinic-dockerfile) ==> Declarative Way of Building Docker Image
