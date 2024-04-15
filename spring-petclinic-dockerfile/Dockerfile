@@ -1,4 +1,4 @@
-FROM schoolofdevops/maven:spring
+FROM srini78/maven
 
 WORKDIR /app
 
