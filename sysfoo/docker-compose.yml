@@ -1,0 +1,4 @@
+sysfoo: 
+  image: initcron/sysfoo:staging
+  ports: 
+    - 9999:8080
